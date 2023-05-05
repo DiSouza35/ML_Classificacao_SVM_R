@@ -187,6 +187,3 @@ View(dados_teste)
 sum(is.na(dados_treino_balanceados))
 sum(is.na(dados_teste))
 sapply(dados_teste, function(x)sum(is.na(x)))
-
-
-
