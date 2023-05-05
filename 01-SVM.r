@@ -62,12 +62,3 @@ hist(dataset_clientes$hourstv)
 
 # Scatter Plot
 plot(dataset_clientes$card2spent, dataset_clientes$hourstv, xlab = "Gasto Cartão", ylab = "Horas TV")
-
-
-
-
-
-
-
-
-
